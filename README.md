@@ -1,5 +1,5 @@
 # A* Maze Solver
-
+![Demo](https://github.com/S21810014/AStarMazeSolver/blob/main/images/gif_demo.gif?raw=true "Demo")
 ## Usage
 It is recommended to run this inside a virtual environment
 ```
